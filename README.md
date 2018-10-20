@@ -22,6 +22,8 @@ To run this notebook, consider the following steps:
  4) Click "Cell" and select "Run All"
  
  5) Great! You now have a working interactive notebook.
+    Note that since the plots are drawn on this online server, 
+    the response time could be really slow for interactive activities.
  
  6) Move the sliders to redraw plots.
  NOTE: If the figures are too small, double click on those figures to make them bigger.
