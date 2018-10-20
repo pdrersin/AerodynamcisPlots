@@ -1,4 +1,4 @@
-# AerodynamcisPlots
+# Aerodynamics Visualizations
 
 
 This is a tutorial to help with some visualizations in Aerodynamics (especially with stream functions & potential functions).
