@@ -11,7 +11,8 @@ To run this notebook, consider the following steps:
    https://mybinder.org/v2/gh/pdrersin/aerodynamcisplots/master
    
    wait until it load the necessary packages (might take few minutes). The jupyter 
-   notebook interface will load automatically.
+   notebook interface will load automatically. Additionally, you can view the logs
+   by clicking the "show" button in the "building  logs" section while waiting.
   
   
  2) Once, the jupyter envairement is loaded. Clickthe notebook file  "AerodynamicsPlots.ipynb".
