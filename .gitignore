@@ -2,3 +2,4 @@
 *.jpg
 *.pdf
 *.docx
+.ipynb_checkpoints
